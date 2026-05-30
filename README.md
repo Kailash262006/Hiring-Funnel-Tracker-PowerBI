@@ -177,15 +177,15 @@ This structure improves reporting performance and enables efficient filtering ac
 
 ### Hiring Overview
 
-(Add Screenshot Here)
+![Hiring Overview](Screenshots/Hiring Overview.png)
 
 ### Recruiter Performance
 
-(Add Screenshot Here)
+![Recruiter Performance](Screenshots/Recruiter Performance.png)
 
 ### Source & Cost Analysis
 
-(Add Screenshot Here)
+![Source & Cost Analysis](Screenshots/Source and Cost Analysis.png)
 
 ---
 
